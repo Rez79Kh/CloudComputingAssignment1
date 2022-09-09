@@ -21,5 +21,5 @@ For see the question click [here.](https://www.cs.utexas.edu/~vijay/cs378-f17/pr
 ## How to Run
 
 ```
-$ docker compose run
+$ docker compose up
 ```
